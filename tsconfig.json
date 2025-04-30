@@ -15,7 +15,7 @@
     "noEmit": true
   },
   "include": [
-    "src",
+    "app",
     "vite.config.ts"
   ]
 }
