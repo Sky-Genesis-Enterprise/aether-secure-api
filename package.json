@@ -1,0 +1,27 @@
+{
+  "name": "aether-secure-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sky-Genesis-Enterprise/aether-secure-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sky-Genesis-Enterprise/aether-secure-api/issues"
+  },
+  "homepage": "https://github.com/Sky-Genesis-Enterprise/aether-secure-api#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
