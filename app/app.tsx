@@ -46,6 +46,11 @@ function App() {
           <Route path="/account/audit-log" element={<SectionPlaceholder name="Audit Log" />} />
           <Route path="/account/billing" element={<SectionPlaceholder name="Billing" />} />
           <Route path="/account/configurations" element={<SectionPlaceholder name="Configurations" />} />
+
+          <Route path="auth/login" element={<SectionPlaceholder name="Login" />} />
+          <Route path="auth/signup" element={<SectionPlaceholder name="Sign Up" />} />
+          <Route path="auth/forgot-password" element={<SectionPlaceholder name="Forgot Password" />} />
+          <Route path="auth/reset-password" element={<SectionPlaceholder name="Reset Password" />} />
         </Routes>
       </main>
     </div>
