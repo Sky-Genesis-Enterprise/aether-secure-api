@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Sky-Genesis-Enterprise/aether-secure-api#readme",
   "dependencies": {
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "vite": "^6.3.3"
   }
 }
